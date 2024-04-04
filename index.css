@@ -76,11 +76,11 @@ fieldset legend, section h2{
 }
 
 
-.lista-particpantes{
+.lista-participantes{
   padding: 20px 0;
 }
 
-.lista-particpantes > div{
+.lista-participantes > div{
   border: var(--border);
   border-radius: 8px;
 }
